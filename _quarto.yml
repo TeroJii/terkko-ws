@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   title: "My Workshop"
@@ -9,7 +10,6 @@ website:
         href: index.qmd
       - text: Slides
         href: slides.qmd
-  output-dir: _site
 
 format:
   html:
