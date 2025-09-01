@@ -5,6 +5,3 @@ color:
   background: light-green
   foreground: dark-green
   primary: black
-  
-  logo:
-    medium: logo.png
