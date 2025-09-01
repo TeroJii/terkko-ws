@@ -1,0 +1,7 @@
+color:
+  palette:
+    dark-green: "#294e61"
+    light-green: "#8ab899"
+  background: light-green
+  foreground: dark-green
+  primary: black
