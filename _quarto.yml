@@ -4,8 +4,8 @@ project:
 
 website:
   title: "My Workshop"
-  logo: logo.png
   navbar:
+    logo: images/logo.png
     left:
       - text: Home
         href: index.qmd
