@@ -1,0 +1,14 @@
+---
+title: "Workshop Slides"
+format: revealjs
+---
+
+## Slide 1
+
+Welcome to the workshop!
+
+---
+
+## Slide 2
+
+Let's get started.
