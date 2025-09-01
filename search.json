@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the Workshop",
+    "section": "",
+    "text": "Welcome to our workshop. Here’s what you’ll find:\n\n📑 Workshop Slides\n🛠️ Hands-on exercises\n💬 Discussion and Q&A\n\nFeel free to explore!"
+  },
+  {
+    "objectID": "index.html#hello",
+    "href": "index.html#hello",
+    "title": "Welcome to the Workshop",
+    "section": "",
+    "text": "Welcome to our workshop. Here’s what you’ll find:\n\n📑 Workshop Slides\n🛠️ Hands-on exercises\n💬 Discussion and Q&A\n\nFeel free to explore!"
+  },
+  {
+    "objectID": "slides.html#slide-1",
+    "href": "slides.html#slide-1",
+    "title": "Workshop Slides",
+    "section": "Slide 1",
+    "text": "Slide 1\nWelcome to the workshop!"
+  },
+  {
+    "objectID": "slides.html#slide-2",
+    "href": "slides.html#slide-2",
+    "title": "Workshop Slides",
+    "section": "Slide 2",
+    "text": "Slide 2\nLet’s get started."
+  }
+]
