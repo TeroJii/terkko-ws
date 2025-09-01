@@ -7,7 +7,19 @@ title: "Welcome to the Workshop"
 Welcome to our workshop. Here’s what you’ll find:
 
 - 📑 Workshop Slides
-- 🛠️ Hands-on exercises
-- 💬 Discussion and Q&A
+- 💬 Answers to Some Frequently Asked Questions
 
 Feel free to explore!
+
+## 📑 Workshop Slides
+
+The slides for this workshop are available [here](https://terojii.github.io/terkko-ws/slides.html).
+
+## Frequently Asked Questions
+
+### How do I access the workshop materials?
+
+All materials are freely available online.
+
+![](images/qrcode_terojii.github.io.png)
+
