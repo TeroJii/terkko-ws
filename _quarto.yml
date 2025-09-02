@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "My Workshop"
+  title: "RWD Workshop"
   navbar:
     logo: images/logo.png
     left:
