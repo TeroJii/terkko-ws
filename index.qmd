@@ -4,7 +4,9 @@ title: "Welcome to the Workshop"
 
 ## 👋 Hello!
 
-Welcome to our workshop. Here’s what you’ll find:
+Welcome to our workshop, which introduces you to a Real World Data (RWD) case study. 
+
+Here’s what you’ll find from this site:
 
 - 📑 Workshop Slides
 - 💬 Answers to Some Frequently Asked Questions
@@ -23,3 +25,31 @@ All materials are freely available online.
 
 ![](images/qrcode_terojii.github.io.png)
 
+### Who is hosting the workshop?
+
+This workshop has been organized in collaboration with Terkko Health Hub and EstiMates.
+
+### What kind of services does EstiMates provide?
+
+EstiMates offers a range of services including:
+
+
+1. Statistical Leadership & Planning
+
+- Leading statistical activities in drug development and clinical trials.
+- Study design support (e.g., estimands framework, adaptive designs).
+- Regulatory interactions, protocols, analysis plans, and sample size calculations.
+
+2. Statistical Reporting & Programming
+- Conducting statistical analyses and programming study outputs.
+- Post-hoc analyses and manuscript support.
+- CDISC standardization, RBM dashboards, and complex data engineering.
+
+3. Data Management
+- eCRF and database design, eDiaries integration.
+- Regulatory-compliant data handling (e.g., 21 CFR Part 11).
+- Medical coding and CDISC standardization.
+
+4. Data Science
+
+Find more about EstiMates [here](https://estimates.fi/).
