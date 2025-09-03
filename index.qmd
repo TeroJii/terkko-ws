@@ -27,29 +27,16 @@ All materials are freely available online.
 
 ### Who is hosting the workshop?
 
-This workshop has been organized in collaboration with Terkko Health Hub and EstiMates.
+This workshop has been organized in collaboration with [Terkko Health Hub](https://terkko.fi/) and [EstiMates](https://estimates.fi/).
 
 ### What kind of services does EstiMates provide?
 
-EstiMates offers a range of services including:
+EstiMates offers a range of services such as:
 
+1. Statistical consulting:
+    + Statistical Leadership & Planning
+    + Statistical Reporting & Programming
+2. Clinical Study Data Management
+3. Data Science
 
-1. Statistical Leadership & Planning
-
-- Leading statistical activities in drug development and clinical trials.
-- Study design support (e.g., estimands framework, adaptive designs).
-- Regulatory interactions, protocols, analysis plans, and sample size calculations.
-
-2. Statistical Reporting & Programming
-- Conducting statistical analyses and programming study outputs.
-- Post-hoc analyses and manuscript support.
-- CDISC standardization, RBM dashboards, and complex data engineering.
-
-3. Data Management
-- eCRF and database design, eDiaries integration.
-- Regulatory-compliant data handling (e.g., 21 CFR Part 11).
-- Medical coding and CDISC standardization.
-
-4. Data Science
-
-Find more about EstiMates [here](https://estimates.fi/).
+Find more about EstiMates for our [website](https://estimates.fi/).
