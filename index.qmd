@@ -11,6 +11,7 @@ Here’s what you’ll find from this site:
 - 📑 Workshop Slides
 - 💬 Answers to Some Frequently Asked Questions
 
+
 Feel free to explore!
 
 ## 📑 Workshop Slides
@@ -23,11 +24,29 @@ The slides for this workshop are available [here](https://terojii.github.io/terk
 
 All materials are freely available online.
 
-![](images/qrcode_terojii.github.io.png)
+![](images/qrcode_terojii.github.io.png){width=300}
 
 ### Who is hosting the workshop?
 
 This workshop has been organized in collaboration with [Terkko Health Hub](https://terkko.fi/) and [EstiMates](https://estimates.fi/).
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+![](images/logo.png){width=200}
+
+
+:::
+
+::: {.column width="60%"}
+
+![](images/Terkko_white_header_logo_variaatio.png){width=250}
+
+:::
+
+::::
+
 
 ### What kind of services does EstiMates provide?
 
@@ -39,4 +58,4 @@ EstiMates offers a range of services such as:
 2. Clinical Study Data Management
 3. Data Science
 
-Find more about EstiMates for our [website](https://estimates.fi/).
+Find more about EstiMates from our [website](https://estimates.fi/).
