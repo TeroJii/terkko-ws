@@ -3,7 +3,7 @@ title: "Real World Data - Case Study with Chronic Pain Rehabilitation"
 format: 
   revealjs:
     logo: images/logo.png
-    footer: Real World Data Workshop with EstiMates
+    footer: Real World Data Workshop with EstiMates - Oct. 2025
 ---
 
 ## Slide 1
@@ -33,6 +33,13 @@ Image from [Gröhn et al., Quantifying Movement Behavior of Chronic Low Back Pai
 
 ![](./images/speed_data-1.png)
 
+## Hypotheses for Data Analysis
+
+1. There is a difference in the movement speed of pain and reference subjects
+1. The pain subjects improve their movement speed during the study
+
+
+# The Results {background-image="./images/VR_testing2.png" background-size="cover" background-repeat="no-repeat" background-color="black" background-opacity="0.5"}
 
 ## Mean speed comparison
 
