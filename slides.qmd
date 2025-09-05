@@ -25,6 +25,15 @@ Image from [Gröhn et al., Quantifying Movement Behavior of Chronic Low Back Pai
 
 :::
 
+## Identifying Picking Events
+
+![](./images/pick_exercise-1.png)
+
+## Determining the Speed for Picking Objects
+
+![](./images/speed_data-1.png)
+
+
 ## Mean speed comparison
 
 ![](https://www.frontiersin.org/files/Articles/1601823/frvir-06-1601823-HTML-r1/image_m/frvir-06-1601823-g002.jpg)
