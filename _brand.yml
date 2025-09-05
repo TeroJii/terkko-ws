@@ -2,6 +2,7 @@ color:
   palette:
     dark-green: "#294e61"
     light-green: "#8ab899"
-  background: light-green
+    light-gray: "#b4bfb7"
+  background: light-gray
   foreground: dark-green
   primary: black
