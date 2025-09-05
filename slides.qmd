@@ -15,6 +15,15 @@ Welcome to the workshop!
 
 Study participants were given the opportunity to use a Virtual Reality (VR) headset on their own time for rehabilitation exercises.
 
+## Movement Data in 3D {.smaller}
+
+![](images/health-2022-0051-f02.jpg)
+
+::: aside
+
+Image from [Gröhn et al., Quantifying Movement Behavior of Chronic Low Back Pain Patients in Virtual Reality, ACM Transactions on Computing for Healthcare, Volume 4, Issue 2 (2023)](https://doi.org/10.1145/3582487)
+
+:::
 
 ## Mean speed comparison
 
