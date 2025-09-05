@@ -1,14 +1,26 @@
 ---
 title: "Real World Data - Case Study with Chronic Pain Rehabilitation"
-format: revealjs
+format: 
+  revealjs:
+    logo: images/logo.png
+    footer: Real World Data Workshop with EstiMates
 ---
 
 ## Slide 1
 
 Welcome to the workshop!
 
----
 
 ## Slide 2
 
 Let's get started.
+
+![](./images/VR_testing.png)
+
+## Slide 3
+
+![](https://www.frontiersin.org/files/Articles/1601823/frvir-06-1601823-HTML-r1/image_m/frvir-06-1601823-g002.jpg)
+
+## Slide 4
+
+Something
