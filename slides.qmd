@@ -11,13 +11,12 @@ format:
 Welcome to the workshop!
 
 
-## Slide 2
+## VR Rehabilitation {background-image="./images/VR_testing.png" background-size="cover" background-repeat="no-repeat" background-color="black" background-opacity="0.5"}
 
-Let's get started.
+Study participants were given the opportunity to use a Virtual Reality (VR) headset on their own time for rehabilitation exercises.
 
-![](./images/VR_testing.png)
 
-## Slide 3
+## Mean speed comparison
 
 ![](https://www.frontiersin.org/files/Articles/1601823/frvir-06-1601823-HTML-r1/image_m/frvir-06-1601823-g002.jpg)
 
