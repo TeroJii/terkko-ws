@@ -48,3 +48,5 @@ Image from [Gröhn et al., Quantifying Movement Behavior of Chronic Low Back Pai
 ## Slide 4
 
 Something
+
+# Thank You! {background-image="./images/VR_testing3.png" background-size="cover" background-repeat="no-repeat" background-color="black" background-opacity="0.5"}
