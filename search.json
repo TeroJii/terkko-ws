@@ -28,17 +28,129 @@
     "text": "Frequently Asked Questions\n\nHow do I access the workshop materials?\nAll materials are freely available online.\n\n\n\nWho is hosting the workshop?\nThis workshop has been organized in collaboration with Terkko Health Hub and EstiMates.\n\n\n\n\n\n\n\n\n\nWhat kind of services does EstiMates provide?\nEstiMates offers a range of services such as:\n\nStatistical consulting:\n\nStatistical Leadership & Planning\nStatistical Reporting & Programming\n\nClinical Study Data Management\nData Science\n\nFind more about EstiMates from our website.\n\n\nData Credit\nThe results and data shown in this work have been published by Liikkanen et al. in:\nBody movement as a digital biomarker in chronic pain rehabilitation: a real-world pilot study using virtual reality, Frontiers in Virtual Reality, 6, 1601823 (2025).\nThe original results are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license."
   },
   {
-    "objectID": "slides.html#slide-1",
-    "href": "slides.html#slide-1",
-    "title": "Workshop Slides",
-    "section": "Slide 1",
-    "text": "Slide 1\nWelcome to the workshop!"
+    "objectID": "slides.html#background-on-chronic-pain",
+    "href": "slides.html#background-on-chronic-pain",
+    "title": "Chronic Pain Rehabilitation and Real World Data",
+    "section": "Background on Chronic Pain",
+    "text": "Background on Chronic Pain\n\nChronic pain is defined as pain that persists or recurs for 3 months or longer\nIn 2020, approximately 619 million people globally were affected by low back pain\nLow back pain and neck pain have constantly been one of the leading causes of disability worldwide (Measuring with years lived with disability)\nThe current gold standard for diagnosing chronic pain is patient self-report\nTraditional medical interventions include methods such as spinal injections, surgery, and pharmacological interventions"
   },
   {
-    "objectID": "slides.html#slide-2",
-    "href": "slides.html#slide-2",
-    "title": "Workshop Slides",
-    "section": "Slide 2",
-    "text": "Slide 2\nLet’s get started."
+    "objectID": "slides.html#virtual-reality-for-rehabilitation",
+    "href": "slides.html#virtual-reality-for-rehabilitation",
+    "title": "Chronic Pain Rehabilitation and Real World Data",
+    "section": "Virtual Reality for Rehabilitation",
+    "text": "Virtual Reality for Rehabilitation\n\nNon-pharmacological interventions include physical therapy, exercise, and cognitive behavioral therapy\nVirtual Reality (VR) has been proposed as a (supplementary) tool for rehabilitation and pain management\nSeveral studies conducted under controlled trial settings have shown promising results, such as reduced pain intensity and reduced kinesiophobia (movevement-related fear of pain)"
+  },
+  {
+    "objectID": "slides.html#vr-rehabilitation",
+    "href": "slides.html#vr-rehabilitation",
+    "title": "Chronic Pain Rehabilitation and Real World Data",
+    "section": "VR Rehabilitation",
+    "text": "VR Rehabilitation\nStudy participants were given the opportunity to use a Virtual Reality (VR) headset on their own time for rehabilitation exercises.\n\nParticipants took part in a study with a tentative length of 12 weeks (not mandated)\nThe participants were instructed to use the VR environment freely to mimic real world usage\nMovement data were collected using Meta Oculus Quest 2 VR equipment (e.g. \\(x,y,z\\) -coordinates of headset and hand controllers) at approximately 30 ms intervals"
+  },
+  {
+    "objectID": "slides.html#movement-data-in-3d",
+    "href": "slides.html#movement-data-in-3d",
+    "title": "Chronic Pain Rehabilitation and Real World Data",
+    "section": "Movement Data in 3D",
+    "text": "Movement Data in 3D\n\n\n\nImage from Gröhn et al., Quantifying Movement Behavior of Chronic Low Back Pain Patients in Virtual Reality, ACM Transactions on Computing for Healthcare, Volume 4, Issue 2 (2023)"
+  },
+  {
+    "objectID": "slides.html#identifying-picking-events",
+    "href": "slides.html#identifying-picking-events",
+    "title": "Chronic Pain Rehabilitation and Real World Data",
+    "section": "Identifying Picking Events",
+    "text": "Identifying Picking Events\n\nPicking DataPicking Event\n\n\n\n\n\n\nImage credit: Gröhn et al."
+  },
+  {
+    "objectID": "slides.html#determining-the-speed-for-picking-objects",
+    "href": "slides.html#determining-the-speed-for-picking-objects",
+    "title": "Chronic Pain Rehabilitation and Real World Data",
+    "section": "Determining the Speed for Picking Objects",
+    "text": "Determining the Speed for Picking Objects"
+  },
+  {
+    "objectID": "slides.html#hypotheses-for-data-analysis",
+    "href": "slides.html#hypotheses-for-data-analysis",
+    "title": "Chronic Pain Rehabilitation and Real World Data",
+    "section": "Hypotheses for Data Analysis",
+    "text": "Hypotheses for Data Analysis\n\nThere is a difference in the movement speed of pain and reference subjects\nThe pain subjects improve their movement speed during the study"
+  },
+  {
+    "objectID": "slides.html#data-credit",
+    "href": "slides.html#data-credit",
+    "title": "Chronic Pain Rehabilitation and Real World Data",
+    "section": "Data Credit",
+    "text": "Data Credit\nThe data and results presented here are from:\nS. Liikkanen et al. Body movement as a digital biomarker in chronic pain rehabilitation: a real-world pilot study using virtual reality, Frontiers in Virtual Reality, 6, 1601823 (2025)"
+  },
+  {
+    "objectID": "slides.html#mean-speed-comparison",
+    "href": "slides.html#mean-speed-comparison",
+    "title": "Chronic Pain Rehabilitation and Real World Data",
+    "section": "Mean Speed Comparison",
+    "text": "Mean Speed Comparison\n\nMean Speed (Day 1)Nested ANOVA"
+  },
+  {
+    "objectID": "slides.html#improvement-over-time",
+    "href": "slides.html#improvement-over-time",
+    "title": "Chronic Pain Rehabilitation and Real World Data",
+    "section": "Improvement Over Time",
+    "text": "Improvement Over Time"
+  },
+  {
+    "objectID": "slides.html#dealing-with-real-world-data",
+    "href": "slides.html#dealing-with-real-world-data",
+    "title": "Chronic Pain Rehabilitation and Real World Data",
+    "section": "Dealing with Real-World Data",
+    "text": "Dealing with Real-World Data\n\nMonte Carlo SimulationWhy and How?\n\n\n\n\n\n\nReal-world data is often messy and incomplete\nMonte Carlo simulation can be used to assess the robustness of the results\nNormalize picking speed to span values from 0 to 1\nPick 4 random participants for each round\nTake bootstrap sample of 1001 observations from pooled data and fit regression line (Repeat 3000 rounds)"
+  },
+  {
+    "objectID": "slides.html#speed-improvement",
+    "href": "slides.html#speed-improvement",
+    "title": "Chronic Pain Rehabilitation and Real World Data",
+    "section": "Speed Improvement",
+    "text": "Speed Improvement\n\n\nMonte Carlo estimates of movement speed improvement for a hypothetical subject with average speeds ranging from 0.15 m/s to 1.1 m/s."
+  },
+  {
+    "objectID": "slides.html#picking-height",
+    "href": "slides.html#picking-height",
+    "title": "Chronic Pain Rehabilitation and Real World Data",
+    "section": "Picking Height",
+    "text": "Picking Height\n\nObject HeightsMushroom Picking"
+  },
+  {
+    "objectID": "slides.html#reaching-distance",
+    "href": "slides.html#reaching-distance",
+    "title": "Chronic Pain Rehabilitation and Real World Data",
+    "section": "Reaching Distance",
+    "text": "Reaching Distance"
+  },
+  {
+    "objectID": "slides.html#reach-improvement",
+    "href": "slides.html#reach-improvement",
+    "title": "Chronic Pain Rehabilitation and Real World Data",
+    "section": "Reach Improvement",
+    "text": "Reach Improvement"
+  },
+  {
+    "objectID": "slides.html#right-hand-usage",
+    "href": "slides.html#right-hand-usage",
+    "title": "Chronic Pain Rehabilitation and Real World Data",
+    "section": "Right Hand Usage",
+    "text": "Right Hand Usage"
+  },
+  {
+    "objectID": "slides.html#not-really",
+    "href": "slides.html#not-really",
+    "title": "Chronic Pain Rehabilitation and Real World Data",
+    "section": "Not Really",
+    "text": "Not Really\n\nIssues with data\nVR platform rights were sold during the study which complicated funding\nStudy plan complicated interpretation of results\n\n\n\n\n\n\n\nTip of the Day\n\n\nConsult a statistician when designing a study, and talk to data professionals when planning data collection."
+  },
+  {
+    "objectID": "slides.html#conclusions",
+    "href": "slides.html#conclusions",
+    "title": "Chronic Pain Rehabilitation and Real World Data",
+    "section": "Conclusions",
+    "text": "Conclusions\n\nVirtual Reality (VR) can effectively supplement chronic pain rehabilitation, with studies showing improvements in movement speed and reduced kinesiophobia.\nRWD is inherently messy and requires exploration and robust analysis methods to derive reliable insights.\nStudy design and data collection planning are critical — unexpected issues can complicate interpretation and outcomes."
   }
 ]

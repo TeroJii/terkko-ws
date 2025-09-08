@@ -9,7 +9,7 @@
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.7.34">
 
-  <title>RWD Workshop – Workshop Slides</title>
+  <title>RWD Workshop – Chronic Pain Rehabilitation and Real World Data</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -28,7 +28,7 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-6c5b9c1c483b93b45216a6e68028b969.css">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-af48c9a31b8ca281bb0e08eb3c436ced.css">
   <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -126,26 +126,207 @@
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block center">
-  <h1 class="title">Workshop Slides</h1>
+  <h1 class="title">Chronic Pain Rehabilitation and Real World Data</h1>
 
 <div class="quarto-title-authors">
 </div>
 
 </section>
-<section id="slide-1" class="slide level2">
-<h2>Slide 1</h2>
-<p>Welcome to the workshop!</p>
+<section id="background-on-chronic-pain" class="slide level2">
+<h2>Background on Chronic Pain</h2>
+<ul>
+<li class="fragment"><p>Chronic pain is defined as pain that persists or recurs for 3 months or longer</p></li>
+<li class="fragment"><p>In 2020, approximately 619 million people globally were affected by low back pain</p></li>
+<li class="fragment"><p>Low back pain and neck pain have constantly been one of the leading causes of disability worldwide (Measuring with years lived with disability)</p></li>
+<li class="fragment"><p>The current gold standard for diagnosing chronic pain is patient self-report</p></li>
+<li class="fragment"><p>Traditional medical interventions include methods such as spinal injections, surgery, and pharmacological interventions</p></li>
+</ul>
 </section>
-<section id="slide-2" class="slide level2">
-<h2>Slide 2</h2>
-<p>Let’s get started.</p>
+<section id="virtual-reality-for-rehabilitation" class="slide level2">
+<h2>Virtual Reality for Rehabilitation</h2>
+<ul>
+<li class="fragment"><p>Non-pharmacological interventions include physical therapy, exercise, and cognitive behavioral therapy</p></li>
+<li class="fragment"><p>Virtual Reality (VR) has been proposed as a (supplementary) tool for rehabilitation and pain management</p></li>
+<li class="fragment"><p>Several studies conducted under controlled trial settings have shown promising results, such as reduced pain intensity and reduced kinesiophobia (movevement-related fear of pain)</p></li>
+</ul>
+</section>
+<section>
+<section id="vr-in-a-real-world-setting" class="title-slide slide level1 center">
+<h1>VR in a Real-World Setting</h1>
+
+</section>
+<section id="vr-rehabilitation" class="slide level2" data-background-image="./images/VR_testing.png" data-background-size="cover" data-background-repeat="no-repeat" data-background-color="black" data-background-opacity="0.5">
+<h2>VR Rehabilitation</h2>
+<p>Study participants were given the opportunity to use a Virtual Reality (VR) headset on their own time for rehabilitation exercises.</p>
+<ul>
+<li class="fragment"><p>Participants took part in a study with a tentative length of 12 weeks (not mandated)</p></li>
+<li class="fragment"><p>The participants were instructed to use the VR environment freely to mimic real world usage</p></li>
+<li class="fragment"><p>Movement data were collected using Meta Oculus Quest 2 VR equipment (e.g.&nbsp;<span class="math inline">\(x,y,z\)</span> -coordinates of headset and hand controllers) at approximately 30 ms intervals</p></li>
+</ul>
+</section>
+<section id="movement-data-in-3d" class="slide level2 smaller">
+<h2>Movement Data in 3D</h2>
+<p><img data-src="images/health-2022-0051-f02.jpg"></p>
+
+<aside><div>
+<p>Image from <a href="https://doi.org/10.1145/3582487">Gröhn et al., Quantifying Movement Behavior of Chronic Low Back Pain Patients in Virtual Reality, ACM Transactions on Computing for Healthcare, Volume 4, Issue 2 (2023)</a></p>
+</div></aside></section>
+<section id="identifying-picking-events" class="slide level2">
+<h2>Identifying Picking Events</h2>
+<div class="panel-tabset">
+<ul id="tabset-1" class="panel-tabset-tabby"><li><a data-tabby-default="" href="#tabset-1-1">Picking Data</a></li><li><a href="#tabset-1-2">Picking Event</a></li></ul>
+<div class="tab-content">
+<div id="tabset-1-1">
+<p><img data-src="./images/pick_exercise-1.png"></p>
+</div>
+<div id="tabset-1-2">
+<p><img data-src="./images/health-2022-0051-f01.jpg"></p>
+<p><a href="https://doi.org/10.1145/3582487">Image credit: Gröhn et al.</a></p>
+</div>
+</div>
+</div>
+</section>
+<section id="determining-the-speed-for-picking-objects" class="slide level2">
+<h2>Determining the Speed for Picking Objects</h2>
+
+<img data-src="./images/speed_data-1.png" class="r-stretch"></section>
+<section id="hypotheses-for-data-analysis" class="slide level2">
+<h2>Hypotheses for Data Analysis</h2>
+<ol type="1">
+<li>There is a difference in the movement speed of pain and reference subjects</li>
+<li>The pain subjects improve their movement speed during the study</li>
+</ol>
+</section></section>
+<section>
+<section id="the-results" class="title-slide slide level1 center" data-background-image="./images/VR_testing2.png" data-background-size="cover" data-background-repeat="no-repeat" data-background-color="black" data-background-opacity="0.5">
+<h1>The Results</h1>
+
+</section>
+<section id="data-credit" class="slide level2">
+<h2>Data Credit</h2>
+<p>The data and results presented here are from:</p>
+<p>S. Liikkanen et al.&nbsp;<a href="https://doi.org/10.3389/frvir.2025.1601823">Body movement as a digital biomarker in chronic pain rehabilitation: a real-world pilot study using virtual reality, Frontiers in Virtual Reality, 6, 1601823 (2025)</a></p>
+</section>
+<section id="mean-speed-comparison" class="slide level2">
+<h2>Mean Speed Comparison</h2>
+<div class="panel-tabset">
+<ul id="tabset-2" class="panel-tabset-tabby"><li><a data-tabby-default="" href="#tabset-2-1">Mean Speed (Day 1)</a></li><li><a href="#tabset-2-2">Nested ANOVA</a></li></ul>
+<div class="tab-content">
+<div id="tabset-2-1">
+<p><img data-src="https://www.frontiersin.org/files/Articles/1601823/frvir-06-1601823-HTML-r1/image_m/frvir-06-1601823-g002.jpg"></p>
+</div>
+<div id="tabset-2-2">
+<p><img data-src="https://www.frontiersin.org/files/Articles/1601823/frvir-06-1601823-HTML-r1/image_m/frvir-06-1601823-t003.jpg"></p>
+</div>
+</div>
+</div>
+</section>
+<section id="improvement-over-time" class="slide level2">
+<h2>Improvement Over Time</h2>
+
+<img data-src="https://www.frontiersin.org/files/Articles/1601823/frvir-06-1601823-HTML-r1/image_m/frvir-06-1601823-g003.jpg" class="r-stretch"></section>
+<section id="dealing-with-real-world-data" class="slide level2">
+<h2>Dealing with Real-World Data</h2>
+<div class="panel-tabset">
+<ul id="tabset-3" class="panel-tabset-tabby"><li><a data-tabby-default="" href="#tabset-3-1">Monte Carlo Simulation</a></li><li><a href="#tabset-3-2">Why and How?</a></li></ul>
+<div class="tab-content">
+<div id="tabset-3-1">
+<p><img data-src="https://www.frontiersin.org/files/Articles/1601823/frvir-06-1601823-HTML-r1/image_m/frvir-06-1601823-g004.jpg"></p>
+</div>
+<div id="tabset-3-2">
+<ul>
+<li><p>Real-world data is often messy and incomplete</p></li>
+<li><p>Monte Carlo simulation can be used to assess the robustness of the results</p></li>
+<li><p>Normalize picking speed to span values from 0 to 1</p></li>
+<li><p>Pick 4 random participants for each round</p></li>
+<li><p>Take bootstrap sample of 1001 observations from pooled data and fit regression line (Repeat 3000 rounds)</p></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section id="speed-improvement" class="slide level2">
+<h2>Speed Improvement</h2>
+
+<img data-src="https://www.frontiersin.org/files/Articles/1601823/frvir-06-1601823-HTML-r1/image_m/frvir-06-1601823-t004.jpg" class="r-stretch"><ul>
+<li>Monte Carlo estimates of movement speed improvement for a hypothetical subject with average speeds ranging from 0.15 m/s to 1.1 m/s.</li>
+</ul>
+</section></section>
+<section>
+<section id="additional-findings" class="title-slide slide level1 center">
+<h1>Additional Findings</h1>
+
+</section>
+<section id="picking-height" class="slide level2">
+<h2>Picking Height</h2>
+<div class="panel-tabset">
+<ul id="tabset-4" class="panel-tabset-tabby"><li><a data-tabby-default="" href="#tabset-4-1">Object Heights</a></li><li><a href="#tabset-4-2">Mushroom Picking</a></li></ul>
+<div class="tab-content">
+<div id="tabset-4-1">
+<p><img data-src="https://www.frontiersin.org/files/Articles/1601823/frvir-06-1601823-HTML-r1/image_m/frvir-06-1601823-g006.jpg"></p>
+</div>
+<div id="tabset-4-2">
+<p><img data-src="https://www.frontiersin.org/files/Articles/1601823/frvir-06-1601823-HTML-r1/image_m/frvir-06-1601823-g007.jpg"></p>
+</div>
+</div>
+</div>
+</section>
+<section id="reaching-distance" class="slide level2">
+<h2>Reaching Distance</h2>
+
+<img data-src="https://www.frontiersin.org/files/Articles/1601823/frvir-06-1601823-HTML-r1/image_m/frvir-06-1601823-g008.jpg" class="r-stretch"></section>
+<section id="reach-improvement" class="slide level2">
+<h2>Reach Improvement</h2>
+
+<img data-src="https://www.frontiersin.org/files/Articles/1601823/frvir-06-1601823-HTML-r1/image_m/frvir-06-1601823-g009.jpg" class="r-stretch"></section>
+<section id="right-hand-usage" class="slide level2">
+<h2>Right Hand Usage</h2>
+
+<img data-src="https://www.frontiersin.org/files/Articles/1601823/frvir-06-1601823-HTML-r1/image_m/frvir-06-1601823-g001.jpg" class="r-stretch"></section></section>
+<section>
+<section id="did-everything-go-as-planned" class="title-slide slide level1 center">
+<h1>Did Everything Go as Planned?</h1>
+
+</section>
+<section id="not-really" class="slide level2">
+<h2>Not Really</h2>
+<ul>
+<li><p>Issues with data</p></li>
+<li><p>VR platform rights were sold during the study which complicated funding</p></li>
+<li><p>Study plan complicated interpretation of results</p></li>
+</ul>
+<div class="callout callout-tip callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>Tip of the Day</strong></p>
+</div>
+<div class="callout-content">
+<p>Consult a statistician when designing a study, and talk to data professionals when planning data collection.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="conclusions" class="slide level2">
+<h2>Conclusions</h2>
+<ol type="1">
+<li class="fragment"><p>Virtual Reality (VR) can effectively supplement chronic pain rehabilitation, with studies showing improvements in movement speed and reduced kinesiophobia.</p></li>
+<li class="fragment"><p>RWD is inherently messy and requires exploration and robust analysis methods to derive reliable insights.</p></li>
+<li class="fragment"><p>Study design and data collection planning are critical — unexpected issues can complicate interpretation and outcomes.</p></li>
+</ol>
+</section></section>
+<section id="thank-you" class="title-slide slide level1 center" data-background-image="./images/VR_testing3.png" data-background-size="cover" data-background-repeat="no-repeat" data-background-color="black" data-background-opacity="0.5">
+<h1>Thank You!</h1>
 
 
 </section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
+<p><img src="images/logo.png" class="slide-logo"></p>
 <div class="footer footer-default">
-
+<p>Real World Data Workshop with EstiMates - Oct.&nbsp;2025</p>
 </div>
 </div></div>
 
