@@ -18,7 +18,23 @@ format:
 
 - The current gold standard for diagnosing chronic pain is patient self-report
 
+- Traditional medical interventions include methods such as spinal injections, surgery, and pharmacological interventions
+
 :::
+
+## Virtual Reality for Rehabilitation
+
+::: {.incremental}
+
+- Non-pharmacological interventions include physical therapy, exercise, and cognitive behavioral therapy
+
+- Virtual Reality (VR) has been proposed as a (supplementary) tool for rehabilitation and pain management
+
+- Several studies conducted under controlled trial settings have shown promising results, such as reduced pain intensity and reduced kinesiophobia (movevement-related fear of pain)
+
+:::
+
+# VR in a Real-World Setting
 
 ## VR Rehabilitation {background-image="./images/VR_testing.png" background-size="cover" background-repeat="no-repeat" background-color="black" background-opacity="0.5"}
 
