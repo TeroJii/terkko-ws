@@ -137,11 +137,15 @@ S. Liikkanen et al. [Body movement as a digital biomarker in chronic pain rehabi
 
 - Pick 4 random participants for each round
 
-- Take bootstrap sample of 1001 observations from pooled data and fit regression line
-
-- Repeat 3000 rounds
+- Take bootstrap sample of 1001 observations from pooled data and fit regression line (Repeat 3000 rounds)
 
 :::
+
+## Speed Improvement
+
+![](https://www.frontiersin.org/files/Articles/1601823/frvir-06-1601823-HTML-r1/image_m/frvir-06-1601823-t004.jpg)
+
+- Monte Carlo estimates of movement speed improvement for a hypothetical subject with average speeds ranging from 0.15 m/s to 1.1 m/s.
 
 ## Did Everything Go as Planned?
 
