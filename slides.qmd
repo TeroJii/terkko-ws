@@ -1,15 +1,24 @@
 ---
-title: "Real World Data - Case Study with Chronic Pain Rehabilitation"
+title: "Chronic Pain Rehabilitation and Real World Data"
 format: 
   revealjs:
     logo: images/logo.png
     footer: Real World Data Workshop with EstiMates - Oct. 2025
 ---
 
-## Slide 1
+## Background on Chronic Pain
 
-Welcome to the workshop!
+::: {.incremental}
 
+- Chronic pain is defined as pain that persists or recurs for 3 months or longer
+
+- In 2020, approximately 619 million people globally were affected by low back pain
+
+- Low back pain and neck pain have constantly been one of the leading causes of disability worldwide (Measuring with years lived with disability)
+
+- The current gold standard for diagnosing chronic pain is patient self-report
+
+:::
 
 ## VR Rehabilitation {background-image="./images/VR_testing.png" background-size="cover" background-repeat="no-repeat" background-color="black" background-opacity="0.5"}
 
