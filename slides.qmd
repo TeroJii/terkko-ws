@@ -115,8 +115,8 @@ S. Liikkanen et al. [Body movement as a digital biomarker in chronic pain rehabi
 
 :::
 
-## Slide 4
+## Improvement Over Time
 
-Something
+![](https://www.frontiersin.org/files/Articles/1601823/frvir-06-1601823-HTML-r1/image_m/frvir-06-1601823-g003.jpg)
 
 # Thank You! {background-image="./images/VR_testing3.png" background-size="cover" background-repeat="no-repeat" background-color="black" background-opacity="0.5"}
