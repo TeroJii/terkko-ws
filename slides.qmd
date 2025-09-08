@@ -119,4 +119,32 @@ S. Liikkanen et al. [Body movement as a digital biomarker in chronic pain rehabi
 
 ![](https://www.frontiersin.org/files/Articles/1601823/frvir-06-1601823-HTML-r1/image_m/frvir-06-1601823-g003.jpg)
 
+## Dealing with Real-World Data
+
+::: {.panel-tabset}
+
+### Monte Carlo Simulation
+
+![](https://www.frontiersin.org/files/Articles/1601823/frvir-06-1601823-HTML-r1/image_m/frvir-06-1601823-g004.jpg)
+
+### Why and How? {.smaller}
+
+- Real-world data is often messy and incomplete
+
+- Monte Carlo simulation can be used to assess the robustness of the results
+
+- Normalize picking speed to span values from 0 to 1
+
+- Pick 4 random participants for each round
+
+- Take bootstrap sample of 1001 observations from pooled data and fit regression line
+
+- Repeat 3000 rounds
+
+:::
+
+## Did Everything Go as Planned?
+
+- No
+
 # Thank You! {background-image="./images/VR_testing3.png" background-size="cover" background-repeat="no-repeat" background-color="black" background-opacity="0.5"}
