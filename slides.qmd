@@ -191,4 +191,19 @@ S. Liikkanen et al. [Body movement as a digital biomarker in chronic pain rehabi
 Consult a statistician when designing a study, and talk to data professionals when planning data collection.
 :::
 
+
+
+## Conclusions
+
+::: {.incremental}
+
+1. Virtual Reality (VR) can effectively supplement chronic pain rehabilitation, with studies showing improvements in movement speed and reduced kinesiophobia.
+
+1. RWD is inherently messy and requires exploration and robust analysis methods to derive reliable insights.
+
+1. Study design and data collection planning are critical — unexpected issues can complicate interpretation and outcomes.
+
+:::
+
+
 # Thank You! {background-image="./images/VR_testing3.png" background-size="cover" background-repeat="no-repeat" background-color="black" background-opacity="0.5"}
