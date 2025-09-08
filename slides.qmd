@@ -40,6 +40,17 @@ format:
 
 Study participants were given the opportunity to use a Virtual Reality (VR) headset on their own time for rehabilitation exercises.
 
+
+::: {.incremental}
+
+- Participants took part in a study with a tentative length of 12 weeks (not mandated) 
+
+- The participants were instructed to use the VR environment freely to mimic real world usage
+
+- Movement data were collected using Meta Oculus Quest 2 VR equipment (e.g. $x,y,z$ -coordinates of headset and hand controllers) at approximately 30 ms intervals
+
+:::
+
 ## Movement Data in 3D {.smaller}
 
 ![](images/health-2022-0051-f02.jpg)
@@ -52,7 +63,19 @@ Image from [Gröhn et al., Quantifying Movement Behavior of Chronic Low Back Pai
 
 ## Identifying Picking Events
 
+::: {.panel-tabset}
+
+### Picking Data
+
 ![](./images/pick_exercise-1.png)
+
+### Picking Event
+
+![](./images/health-2022-0051-f01.jpg)
+
+[Image credit: Gröhn et al.](https://doi.org/10.1145/3582487)
+
+:::
 
 ## Determining the Speed for Picking Objects
 
