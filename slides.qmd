@@ -147,7 +147,23 @@ S. Liikkanen et al. [Body movement as a digital biomarker in chronic pain rehabi
 
 - Monte Carlo estimates of movement speed improvement for a hypothetical subject with average speeds ranging from 0.15 m/s to 1.1 m/s.
 
-## Did Everything Go as Planned?
+# Additional Findings
+
+## Picking Height
+
+::: {.panel-tabset}
+
+### Object Heights
+
+![](https://www.frontiersin.org/files/Articles/1601823/frvir-06-1601823-HTML-r1/image_m/frvir-06-1601823-g006.jpg)
+
+### Mushroom Picking
+
+![](https://www.frontiersin.org/files/Articles/1601823/frvir-06-1601823-HTML-r1/image_m/frvir-06-1601823-g007.jpg)
+
+:::
+
+# Did Everything Go as Planned?
 
 - No
 
