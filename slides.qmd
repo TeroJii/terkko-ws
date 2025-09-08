@@ -73,7 +73,9 @@ Image from [Gröhn et al., Quantifying Movement Behavior of Chronic Low Back Pai
 
 ![](./images/health-2022-0051-f01.jpg)
 
+
 [Image credit: Gröhn et al.](https://doi.org/10.1145/3582487)
+
 
 :::
 
@@ -89,9 +91,29 @@ Image from [Gröhn et al., Quantifying Movement Behavior of Chronic Low Back Pai
 
 # The Results {background-image="./images/VR_testing2.png" background-size="cover" background-repeat="no-repeat" background-color="black" background-opacity="0.5"}
 
-## Mean speed comparison
+## Data Credit
+
+The data and results presented here are from:
+
+S. Liikkanen et al. [Body movement as a digital biomarker in chronic pain rehabilitation: a real-world pilot study using virtual reality, Frontiers in Virtual Reality, 6, 1601823 (2025)](https://doi.org/10.3389/frvir.2025.1601823)
+
+
+## Mean Speed Comparison
+
+::: {.panel-tabset}
+
+### Mean Speed (Day 1)
+
 
 ![](https://www.frontiersin.org/files/Articles/1601823/frvir-06-1601823-HTML-r1/image_m/frvir-06-1601823-g002.jpg)
+
+
+### Nested ANOVA
+
+![](https://www.frontiersin.org/files/Articles/1601823/frvir-06-1601823-HTML-r1/image_m/frvir-06-1601823-t003.jpg)
+
+
+:::
 
 ## Slide 4
 
