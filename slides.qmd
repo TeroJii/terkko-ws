@@ -179,4 +179,16 @@ S. Liikkanen et al. [Body movement as a digital biomarker in chronic pain rehabi
 
 ## Not Really
 
+- Issues with data
+
+- VR platform rights were sold during the study which complicated funding
+
+- Study plan complicated interpretation of results
+
+::: {.callout-tip}
+## Tip of the Day
+
+Consult a statistician when designing a study, and talk to data professionals when planning data collection.
+:::
+
 # Thank You! {background-image="./images/VR_testing3.png" background-size="cover" background-repeat="no-repeat" background-color="black" background-opacity="0.5"}
