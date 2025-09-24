@@ -65,16 +65,17 @@ Image from [Gröhn et al., Quantifying Movement Behavior of Chronic Low Back Pai
 
 ::: {.panel-tabset}
 
-### Picking Data
-
-![](./images/pick_exercise-1.png)
-
 ### Picking Event
 
 ![](./images/health-2022-0051-f01.jpg)
 
 
 [Image credit: Gröhn et al.](https://doi.org/10.1145/3582487)
+
+
+### Picking Data
+
+![](./images/pick_exercise-1.png)
 
 
 :::
