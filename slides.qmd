@@ -6,6 +6,10 @@ format:
     footer: Real World Data Workshop with EstiMates - Oct. 2025
 ---
 
+##
+
+![](images/ArticleCover.png)
+
 ## Background on Chronic Pain
 
 ::: {.incremental}
