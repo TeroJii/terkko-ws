@@ -102,6 +102,7 @@ The data and results presented here are from:
 
 S. Liikkanen et al. [Body movement as a digital biomarker in chronic pain rehabilitation: a real-world pilot study using virtual reality, Frontiers in Virtual Reality, 6, 1601823 (2025)](https://doi.org/10.3389/frvir.2025.1601823)
 
+The original results are licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) license](https://creativecommons.org/licenses/by/4.0/).
 
 ## Mean Speed Comparison
 
